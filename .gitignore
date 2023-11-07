@@ -1,0 +1,47 @@
+# Carpetas generadas por Visual Studio
+.vscode/
+.vs/
+/bin/
+/obj/
+
+# Carpetas generadas por Visual Studio Code
+.vscode/
+/.vscode/
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.sln.docstates
+
+# Archivos de respaldo generados por editores o IDEs
+*~
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Carpetas y archivos generados por Entity Framework
+Migrations/
+/appsettings.json
+
+# Carpeta de paquetes NuGet
+/packages/
+
+# Carpeta de caché de NuGet
+/.local/
+
+# Carpeta de caché de NuGet (Windows)
+/.nuget/
+/nupkg/
+
+# Carpeta de herramientas de NuGet
+/.tools/
+
+# Archivos de registro y salida de aplicaciones
+*.log
+*.log.*
+*.txt
+
+# Archivos de configuración específicos del sistema o usuario
+appsettings.Production.json
+appsettings.Development.json
